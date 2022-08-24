@@ -1,0 +1,4 @@
+#Wed Aug 24 14:22:02 IST 2022
+base.0=D\:\\App_Dev\\Trial2\\M-Box-Login-UI-main\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
